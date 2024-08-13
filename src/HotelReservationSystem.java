@@ -22,7 +22,7 @@ public class HotelReservationSystem {
         }
 
         try {
-            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/hotel_db", "root", "amitkumar@12");
+            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/hotel_db", "root", "password");
 
             while(true) {
                 System.out.println();
