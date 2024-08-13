@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class HotelReservationSystem {
     public static final String url = "jdbc:mysql://localhost:3306/hotel_db";
     public static final String username = "root";
-    public static final String password = "amitkumar@12";
+    public static final String password = "password";
 
     public HotelReservationSystem() {
     }
